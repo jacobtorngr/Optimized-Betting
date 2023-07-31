@@ -19,4 +19,4 @@ A win from either of those countries would yield a profit of:
 ```matlab
 profit = [221, 105, 141, 107, 118, 110, 122, 273, 541, 3646, 6216];
 ```
-Thus greatly increasing the probability of winning compared to only betting on only one team.
+Thus greatly increasing the probability of winning compared to betting on only one team.
