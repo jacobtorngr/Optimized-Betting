@@ -4,7 +4,7 @@ budget, and uses constrained optimization to find the optimum set of bets in the
 Or rather, minimum maximum negative profit.
 
 ## Example
-In the football World Cup 2022, the odds for the top 12 ranked teams were,
+In the men's football World Cup 2022, the odds for the top 12 ranked teams were,
 ```matlab
 odds = [3.5, 5.5, 6.5, 7, 9, 13, 15, 34, 67, 67, 101, 176];
 ```
