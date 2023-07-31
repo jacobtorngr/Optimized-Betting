@@ -1,6 +1,6 @@
 # Optimized Betting
 Have you ever wondered if you could bet on multiple teams in a sports event to guarantee a profit? This MATLAB script lets you set a
-budget, and uses constrained optimization to find the optimum set of bets in the sense of minimum potential loss.
+fixed bet amount, and uses constrained optimization to find the optimum set of bets in the sense of minimum potential loss.
 Or rather, minimum maximum negative profit.
 
 ## Example
